@@ -7,3 +7,4 @@ print("Pigeon Pea in the First half")
 print("Maize in the second half")
 #Turnover expecting
 print("total Rupees = 1000000")
+
